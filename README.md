@@ -19,7 +19,6 @@ It walks through simple tasks to build foundational skills in handling image dat
 
 Key areas covered:
 - Loading and displaying images
-- Basic image manipulations (e.g., resizing, cropping, color conversion)
 - Applying simple filters and transformations
 - Edge detection and feature extraction
 
