@@ -1,7 +1,7 @@
 # Basic-Image-Processing-Techniques
 
 This project demonstrates fundamental techniques in computer vision using Python.  
-It covers essential operations such as image loading, visualization, preprocessing, and basic transformations.
+It covers essential operations such as image loading, visualization, and basic transformations.
 
 ## Table of Contents
 
